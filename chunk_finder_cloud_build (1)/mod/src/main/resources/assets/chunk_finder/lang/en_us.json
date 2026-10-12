@@ -1,0 +1,8 @@
+{
+  "key.chunk_finder.toggle": "Toggle Chunk Finder overlay",
+  "key.chunk_finder.radius_up": "Increase Chunk Finder radius",
+  "key.chunk_finder.radius_down": "Decrease Chunk Finder radius",
+  "key.chunk_finder.filter_villages": "Toggle village markers",
+  "key.chunk_finder.filter_mineshafts": "Toggle mineshaft markers",
+  "key.chunk_finder.filter_strongholds": "Toggle stronghold markers"
+}

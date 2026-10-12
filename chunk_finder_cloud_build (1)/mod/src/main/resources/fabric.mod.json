@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "chunk_finder",
+  "version": "${version}",
+  "name": "Chunk Finder",
+  "description": "A client-side HUD map for structure starts present in loaded client chunk data.",
+  "authors": ["Chunk Finder contributors"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.example.chunkfinder.ChunkFinderClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
